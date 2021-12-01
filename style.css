@@ -17,7 +17,9 @@ header{
 .info{
     display: flex;
     margin-left: 20%;
-    box-shadow: 2 2 2 black;
+}
+.info img{
+    border-radius: 50%;
 }
 #about{
     text-align: center;
@@ -53,4 +55,5 @@ footer{
 .copyright p{
     margin-left: 40%;
 }
+
 
